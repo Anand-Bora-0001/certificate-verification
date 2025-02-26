@@ -1,7 +1,3 @@
-Here’s your **detailed README** with more information about the project, including search functionality, features, and donation details.  
-
----
-
 # **Certificate Verification Plugin**  
 **Contributors:** Anand-Bora-0001  
 **Donate link:** **UPI: anandbora241@oksbi**  
