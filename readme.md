@@ -1,6 +1,5 @@
 # **Certificate Verification Plugin**  
 **Contributors:** Anand-Bora-0001  
-**Donate link:** **UPI: anandbora241@oksbi**  
 **Tags:** certificate, verification, course, authentication, education  
 **Requires at least:** 4.0  
 **Tested up to:** 4.8  
@@ -8,15 +7,6 @@
 **Requires PHP:** 5.4  
 **License:** GPLv2 or later  
 **License URI:** [GNU GPL v2](https://www.gnu.org/licenses/gpl-2.0.html)  
-
----
-
-### **🙏 Support This Project (Donate ₹1)**  
-If you find this plugin useful, consider donating just **₹1** via **UPI** to support its development:  
-
-📌 **UPI ID:** `anandbora241@oksbi`  
-
-Your contribution helps in improving and maintaining this plugin. **Thank you for your support!**  
 
 ---
 
@@ -106,4 +96,4 @@ The search system allows users to find certificates based on multiple filters:
 ## **⚠️ Upgrade Notice**  
 
 For any issues or feature requests, **contact us at**:  
-📧 **Email:** hello@Anand-Bora-0001.com  
+📧 **Email:** anandbora241@gmail.com
