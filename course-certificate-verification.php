@@ -5,7 +5,7 @@
  */
 /**
  * Plugin Name: Certificate Verification
- * Plugin URI: https://github.com/Anand-Bora-0001/certificate-verification
+ * Plugin URI: https://github.com/Anand-Bora-0001/certificate-verification-plugin
  * Description: Admin can enter course certificate codes, and details in the panel, and users can verify their certificate using the course code in the front end.
  * Version: 3.0
  * Author: Anand-Bora-0001
